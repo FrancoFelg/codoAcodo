@@ -9,6 +9,10 @@
     position: absolute;
 }
 
+.boldText {
+    font-weight: 900;
+}
+
 .carrousel-title{
     font-size: 3rem
 }
@@ -46,6 +50,10 @@
 
 .img-ba{
     height: 100vh;
+}
+
+.bigHeight{
+    height: 90vh;
 }
 
 .img-cuadrada{
